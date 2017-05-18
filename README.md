@@ -14,5 +14,5 @@ There are several dependencies:
 4. [JKI VI Testser JUnit XML Test Results](https://github.com/JKISoftware/JKI-VI-Tester-JUnit-XML-Test-Results)
 5. [NI Unit Test Framework](https://ni.com)
 6. [UTF Junit Report](https://github.com/LabVIEW-DCAF/UTF-Test) - Unpublished library
-7. [Junit Results API](https://forums.ni.com/t5/Unit-Testing-Group/UTF-to-JUnit-report/gpm-p/3453581) - Unpublished library
+7. [Junit Results API](https://github.com/NISystemsEngineering/LV-JUnit) - Unpublished library
 8. [Jenkins JUnit Plugin](https://wiki.jenkins-ci.org/display/JENKINS/JUnit+Plugin) - if using Jenkins
