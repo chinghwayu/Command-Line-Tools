@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-05-17 11:25:39" Modified_Date="2017-05-18 15:20:10" Creator="a0224887" Comments="" ID="f3701509a2ceb366276124415271df47">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-05-17 11:25:39" Modified_Date="2017-05-18 15:51:21" Creator="a0224887" Comments="" ID="afc203646f83c6fa802ac5e24b9cd3a4">
   <Library_General_Settings>
     <Package_File_Name>cyu_lib_command_line_tools</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -19,7 +19,7 @@
     <Package_Dependencies>
       <Additional_External_Dependencies>jki_lib_vi_tester_junit_xml_results &gt;=2.0.1.16</Additional_External_Dependencies>
       <Additional_External_Dependencies>jki_lib_vipm_api &gt;=2014.0.0.38</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_utf_junit_report &gt;=1.0.0.39</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_utf_junit_report &gt;=1.0.1.42</Additional_External_Dependencies>
       <Additional_External_Dependencies>wiresmith_technology_lib_labview_cli &gt;=1.2.0.1</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
@@ -210,7 +210,7 @@
         <Path>VI Tree - Command Line Tools.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3B8D11088D4B2E9AAA9B59C386EC6DB0</GUID>
+      <GUID>D29F9A6D7883DCD2359C720DF0487726</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
