@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-05-17 11:25:39" Modified_Date="2017-05-18 13:25:09" Creator="a0224887" Comments="" ID="9ba2223f72c7e998323a593c475fdfe0">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-05-17 11:25:39" Modified_Date="2017-05-18 15:20:10" Creator="a0224887" Comments="" ID="f3701509a2ceb366276124415271df47">
   <Library_General_Settings>
     <Package_File_Name>cyu_lib_command_line_tools</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -210,7 +210,7 @@
         <Path>VI Tree - Command Line Tools.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4297BCB9ACE7394A8BACC3E531DDC1D0</GUID>
+      <GUID>3B8D11088D4B2E9AAA9B59C386EC6DB0</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
